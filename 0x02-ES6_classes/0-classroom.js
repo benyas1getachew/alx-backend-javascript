@@ -4,7 +4,3 @@ export default class ClassRoom { // Prototype class for ClassRoom
     this._maxStudentsSize = maxStudentsSize; // Private variable for maxStudentsSize
   }
 }
-/* Classroom
-    https://stackoverflow.com/questions/4484424/underscore-prefix-for-property-and-method-names-in-javascript
-    prefix
-*/
