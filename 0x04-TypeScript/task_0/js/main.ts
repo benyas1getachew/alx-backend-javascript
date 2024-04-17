@@ -18,17 +18,17 @@ interface Student {
  * Create a Students object with the following format:
  */
   const studentA: Student = {
-    firstName: 'Imanol',
-    lastName: 'Asolo',
+    firstName: 'Benyas',
+    lastName: 'Getachew',
     age: 50,
-    location: 'Manta',
+    location: 'Addis',
   }
   
   const studentB: Student = {
     firstName: 'Alex',
-    lastName: 'Arevalo',
+    lastName: 'Abebe',
     age: 45,
-    location: 'Bogota',
+    location: 'Jima',
   }
 /**
  * Create an array of Students
